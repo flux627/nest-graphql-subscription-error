@@ -1,0 +1,8 @@
+type Query {
+    _: Int
+}
+
+type Subscription {
+    test: Int
+    test2: Int
+}
